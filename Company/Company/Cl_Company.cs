@@ -8,15 +8,19 @@ namespace Company
 {
     public class Cl_Company
     {
-        public string Name;
-        public int persons;
-        public int money;
+        protected string Name;
+        protected int persons;
+        protected int money;
 
         public void show() // Печать информации о компании
         {
             Console.WriteLine("В компании {0} трудятся {1} сотрудников. Фонд заработной платы: {2}",Name, persons, money);
         }
         public int averageSalary() // Вычисление средней зарплаты
+        {
+            return money / persons;
+        }
+        public int maxPersons(int salary) // Средняя зарплата
         {
             return money / persons;
         }
