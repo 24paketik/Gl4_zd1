@@ -1,0 +1,16 @@
+C:\Users\comp0713\Desktop\Smst1\Company\Gl4_zd1\Company\Company\bin\Debug\net5.0\Company.exe
+C:\Users\comp0713\Desktop\Smst1\Company\Gl4_zd1\Company\Company\bin\Debug\net5.0\Company.deps.json
+C:\Users\comp0713\Desktop\Smst1\Company\Gl4_zd1\Company\Company\bin\Debug\net5.0\Company.runtimeconfig.json
+C:\Users\comp0713\Desktop\Smst1\Company\Gl4_zd1\Company\Company\bin\Debug\net5.0\Company.runtimeconfig.dev.json
+C:\Users\comp0713\Desktop\Smst1\Company\Gl4_zd1\Company\Company\bin\Debug\net5.0\Company.dll
+C:\Users\comp0713\Desktop\Smst1\Company\Gl4_zd1\Company\Company\bin\Debug\net5.0\ref\Company.dll
+C:\Users\comp0713\Desktop\Smst1\Company\Gl4_zd1\Company\Company\bin\Debug\net5.0\Company.pdb
+C:\Users\comp0713\Desktop\Smst1\Company\Gl4_zd1\Company\Company\obj\Debug\net5.0\Company.csproj.AssemblyReference.cache
+C:\Users\comp0713\Desktop\Smst1\Company\Gl4_zd1\Company\Company\obj\Debug\net5.0\Company.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\comp0713\Desktop\Smst1\Company\Gl4_zd1\Company\Company\obj\Debug\net5.0\Company.AssemblyInfoInputs.cache
+C:\Users\comp0713\Desktop\Smst1\Company\Gl4_zd1\Company\Company\obj\Debug\net5.0\Company.AssemblyInfo.cs
+C:\Users\comp0713\Desktop\Smst1\Company\Gl4_zd1\Company\Company\obj\Debug\net5.0\Company.csproj.CoreCompileInputs.cache
+C:\Users\comp0713\Desktop\Smst1\Company\Gl4_zd1\Company\Company\obj\Debug\net5.0\Company.dll
+C:\Users\comp0713\Desktop\Smst1\Company\Gl4_zd1\Company\Company\obj\Debug\net5.0\ref\Company.dll
+C:\Users\comp0713\Desktop\Smst1\Company\Gl4_zd1\Company\Company\obj\Debug\net5.0\Company.pdb
+C:\Users\comp0713\Desktop\Smst1\Company\Gl4_zd1\Company\Company\obj\Debug\net5.0\Company.genruntimeconfig.cache
