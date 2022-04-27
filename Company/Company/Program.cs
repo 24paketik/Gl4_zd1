@@ -7,7 +7,7 @@ namespace Company
         static void Main(string[] args)
         {
             int i, // параметр цикла
-                min, // наименьшая сумма страховыхвзносов
+                min, // наименьшая сумма страховых взносов
                 temp, j; //вспомогательные переменные
             InsCompany[] CityCompany = new InsCompany[4];
             // Создание и инициализация объектов
@@ -31,6 +31,10 @@ namespace Company
                 }
             }
             Console.WriteLine("\n наименьшая сумма взносов в компании " + CityCompany[j].Name);
+            CityCompany[0].show();
+            CityCompany[1].show();
+            CityCompany[2].show();
+            CityCompany[3].show();
         }
     }
 }
